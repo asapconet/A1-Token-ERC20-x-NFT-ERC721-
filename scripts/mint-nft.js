@@ -8,7 +8,10 @@ const web3 = createAlchemyWeb3(API_URL);
 
 const contract = require("../artifacts/contracts/A1NFT.sol/A1NFT.json");
 // console.log(JSON.stringify(contract.abi));
-const contractAddress = "0xD0b32Fd6dcF96Eb23C836F7b5668B6746fdC7ba8";
+
+const contractAddress = "0x4A9EBFaF932dbEdfd0f6EF6f63246d29AcCd2dc8";
+// 1st addy = 0xD0b32Fd6dcF96Eb23C836F7b5668B6746fdC7ba8
+
 const nftContract = new web3.eth.Contract(contract.abi, contractAddress);
 
 async function mintNFT(tokenURI) {

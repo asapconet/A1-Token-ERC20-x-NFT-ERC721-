@@ -2,7 +2,7 @@
  
 ERC721 Contract address: 0xd0b32fd6dcf96eb23c836f7b5668b6746fdc7ba8
 
-ERC721 Rinkeby Etherscan address: https://rinkeby.etherscan.io/address/0x8a7f96dda5a9ef2e7e8f389803523dd0c1faba9f#tokentxnsErc721
+ERC721 Rinkeby Etherscan address:https://rinkeby.etherscan.io/address/0x4A9EBFaF932dbEdfd0f6EF6f63246d29AcCd2dc8#code
 
 IPFS link containing metadata for token1: https://ipfs.io/ipfs/QmZG2kVvtqBCHjNDQesfjjHaQJ2v5EHq8KXivi5RgpYAFa
 
