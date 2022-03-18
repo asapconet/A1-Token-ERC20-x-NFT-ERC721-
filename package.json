@@ -1,0 +1,16 @@
+{
+  "name": "a1-nft",
+  "version": "1.0.0",
+  "description": "first nft project",
+  "main": "index.js",
+  "author": "aaron",
+  "license": "MIT",
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.2.5",
+    "@nomiclabs/hardhat-ethers": "^2.0.5",
+    "@openzeppelin/contracts": "^4.5.0",
+    "dotenv": "^16.0.0",
+    "ethers": "^5.0.0",
+    "hardhat": "^2.9.1"
+  }
+}
