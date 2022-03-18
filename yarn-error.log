@@ -1,5 +1,5 @@
 Arguments: 
-  C:\Program Files\nodejs\node.exe C:\Users\USER\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add @openzeppelin/solidity
+  C:\Program Files\nodejs\node.exe C:\Users\USER\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add @normiclabs/hardhat-etherscan
 
 PATH: 
   C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\USER\AppData\Local\Programs\Python\Python39;C:\Program Files\Git\cmd;C:\Users\USER\AppData\Local\Programs\Python\Python39\Scripts\;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;C:\Users\USER\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\USER\AppData\Local\Programs\Python\Python39\;C:\Users\USER\AppData\Local\Microsoft\WindowsApps;C:\Users\USER\AppData\Local\Programs\Microsoft VS Code\bin;C:\Gradle\gradle-7.0\bin;C:\Users\USER\development\flutter\bin;C:\Users\USER\AppData\Local\Programs\Python\Python39\Scripts\pipenv;C:\Users\USER\AppData\Roaming\npm;C:\Users\USER\AppData\Local\GitHubDesktop\bin;C:\Program Files (x86)\GitHub CLI\
@@ -14,7 +14,7 @@ Platform:
   win32 x64
 
 Trace: 
-  Error: https://registry.yarnpkg.com/@openzeppelin%2fsolidity: Not found
+  Error: https://registry.yarnpkg.com/@normiclabs%2fhardhat-etherscan: Not found
       at Request.params.callback [as _callback] (C:\Users\USER\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:66992:18)
       at Request.self.callback (C:\Users\USER\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:140763:22)
       at Request.emit (events.js:376:20)
