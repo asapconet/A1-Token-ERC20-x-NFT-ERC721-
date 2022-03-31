@@ -15,4 +15,4 @@ Opensea URL: https://testnets.opensea.io/collection/a1nft
 
 ERC20 Contract Address: 0x5746f7d4ba752b0c44664524738a387fde0b14da
 
-ERC20 Rinkeby Etherscan address: https://rinkeby.etherscan.io/address/0x5746f7d4ba752b0c44664524738a387fde0b14da#code
+ERC20 Rinkeby Etherscan address: https://rinkeby.etherscan.io/address/0xe8066937535772eb8365ccffed5980979146a9d7#code
